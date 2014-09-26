@@ -1,7 +1,11 @@
 #include<stdio.h>
 int main(){
-  int a=3;
-  printf("Hello World!\n");
-  printf("a="%d\n",a);
+  
+  //"this is totally wrong"
+  int m;
+  for(m=0;m<10;m++){
+   printf("m:%d",m);
+  }
+  
   
 }
